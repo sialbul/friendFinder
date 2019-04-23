@@ -15,7 +15,8 @@ h4 {color:black;}
 
 #surveyButton {background-color: red;}
 
-.container {background-color: white;}
+.container {background-color: white;
+            padding:0px}
 
 #submit{background-color: red;
         width:200px;}
