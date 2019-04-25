@@ -39,4 +39,4 @@ A modal is then toggled, displaying the the best match to the person who just to
  
 ```
 
-* Created by Sibel Baslamisli [https://github.com/sialbul]
+* Created by Sibel Baslamisli [https://github.com/sialbul](https://github.com/sialbul)
